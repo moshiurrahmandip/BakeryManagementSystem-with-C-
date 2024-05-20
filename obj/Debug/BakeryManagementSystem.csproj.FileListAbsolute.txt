@@ -1,0 +1,150 @@
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\BakeryManagementSystem.exe.config
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\BakeryManagementSystem.exe
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\BakeryManagementSystem.pdb
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\Google.Protobuf.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\MySql.Data.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\NuGet.Frameworks.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Buffers.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.IO.Pipelines.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Memory.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\ZstdSharp.dll
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\Google.Protobuf.pdb
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\Google.Protobuf.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\MySql.Data.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Buffers.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.IO.Pipelines.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Memory.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Login.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.AdminDashboard.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Employee.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Supplier.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Category.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.ProductForm.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Customer.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Invoice.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Properties.Resources.resources
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.csproj.GenerateResource.cache
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryMa.4562F7D4.Up2Date
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.exe
+C:\Users\moshi\Downloads\BakeryManagementSystem-master (1)\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.pdb
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\BakeryManagementSystem.exe.config
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\BakeryManagementSystem.exe
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\BakeryManagementSystem.pdb
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\Google.Protobuf.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\MySql.Data.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\NuGet.Frameworks.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Buffers.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.IO.Pipelines.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Memory.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\ZstdSharp.dll
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\Google.Protobuf.pdb
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\Google.Protobuf.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\MySql.Data.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Buffers.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.IO.Pipelines.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Memory.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Login.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.AdminDashboard.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Employee.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Supplier.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Category.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.ProductForm.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Customer.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Invoice.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.Properties.Resources.resources
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.csproj.GenerateResource.cache
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryMa.4562F7D4.Up2Date
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.exe
+C:\Users\primu\OneDrive\Desktop\BMS\BakeryManagementSystem-master\obj\Debug\BakeryManagementSystem.pdb
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\BakeryManagementSystem.exe.config
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\BakeryManagementSystem.exe
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\BakeryManagementSystem.pdb
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\Google.Protobuf.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\MySql.Data.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\NuGet.Frameworks.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Buffers.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Memory.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\ZstdSharp.dll
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\Google.Protobuf.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\MySql.Data.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Buffers.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Memory.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.csproj.AssemblyReference.cache
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Login.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.AdminDashboard.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Employee.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Supplier.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Category.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.ProductForm.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Customer.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Invoice.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.Properties.Resources.resources
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.csproj.GenerateResource.cache
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryMa.4562F7D4.Up2Date
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.exe
+D:\Downloads\BakeryManagementSystem (Fixed)\obj\Debug\BakeryManagementSystem.pdb
